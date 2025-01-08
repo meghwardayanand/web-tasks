@@ -1,0 +1,8 @@
+#featureColumnsDiv, #otherColumnsDiv{
+    border:1px solid black;
+    width: 50%;
+}
+
+.selectedFeatures, .availableFeatures {
+    margin: 2px;
+}
